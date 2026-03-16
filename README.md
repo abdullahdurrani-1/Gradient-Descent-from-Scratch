@@ -21,7 +21,3 @@ Instead of relying on black-box libraries, this implementation breaks down the c
 
 ### Output
 Running `gradient_descent.py` will calculate the steps down the loss curve and generate a plot showing the path the algorithm took to converge at an error of 0. Notice how the steps naturally get smaller as the slope flattens out!
-
-##  Future Roadmap
-* [ ] Add Stochastic Gradient Descent (SGD)
-* [ ] Add Adam Optimizer
